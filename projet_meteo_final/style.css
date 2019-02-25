@@ -1,0 +1,62 @@
+#maCarte { 
+    border-style: solid; 
+    
+}
+
+.temps{
+    position: absolute;
+    left:1200px;
+    top:60px;
+    width:10%;
+    height: 10%;
+    float:right;
+    background-color:rgb(255, 255, 255);
+    text-align: center;
+    border-style: solid;
+
+}
+
+.temperature{
+
+    position: absolute;
+    left:1200px;
+    top:260px;
+    width:10%;
+    height: 10%;
+    float:right;
+    background-color:rgb(255, 255, 255);
+    text-align: center;
+    border-style: solid;
+
+    
+}
+
+.humidite{
+
+    position: absolute;
+    left:1200px;
+    top:460px;
+    width:10%;
+    height: 10%;
+    float:right;
+    background-color:rgb(255, 255, 255);
+    text-align: center;
+    border-style: solid;
+
+    
+}
+
+.sens-vent{
+
+    position: absolute;
+    left:1200px;
+    top:660px;
+    width:10%;
+    height: 10%;
+    float:right;
+    background-color:rgb(255, 255, 255);
+    text-align: center;
+    border-style: solid;
+
+    
+}
